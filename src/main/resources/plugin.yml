@@ -1,0 +1,5 @@
+name: IshakPlugin
+main: me.mopsikzlo.ishak.Main
+api: 1.0.0
+version: 1.0.0
+author: mopsikzlo
